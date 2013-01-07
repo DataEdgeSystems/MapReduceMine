@@ -4,7 +4,7 @@
   <artifactId>org.swjtu.MapReduceMine</artifactId>
   <name>MapReduceMine</name>
   <version>0.0.1-SNAPSHOT</version>
-  <description>MapReduceMine provides an Hadoop distributed implementation for Maximal Information-based Nonparametric Exploration ( Reshef, D., Reshef, Y., Finucane, H., Grossman, S., McVean, G., Turnbaugh, P., Lander, E., Mitzenmacher, M., and Sabeti, P. (2011). Detecting novel associations in large datasets. Science, 6062(334), 1518–1524.)</description>
+  <description>MapReduceMine provides a Hadoop distributed implementation for Maximal Information-based Nonparametric Exploration ( Reshef, D., Reshef, Y., Finucane, H., Grossman, S., McVean, G., Turnbaugh, P., Lander, E., Mitzenmacher, M., and Sabeti, P. (2011). Detecting novel associations in large datasets. Science, 6062(334), 1518–1524.)</description>
   <organization>
   	<name>Southwest Jiaotong University</name>
   	<url>http://www.swjtu.edu.cn/</url>
